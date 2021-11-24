@@ -3,7 +3,7 @@
 with your group suggest and research one Use case in Fintech, locate some data in this space, explore it a bit, and choose a model you'd like to work with.
 
 **Area of FinTech**:  
-(insurtech). 
+(insurtech). The use of ML algorithms in this process helps the Insurtech to understand the beneficiary's and determine the cost.
 
 **Dataset researched and located**:  
 (Recommended data sources: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression) 
